@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Predictive Analysis API
 
 
@@ -21,7 +21,7 @@ example-
 { "Temperature": 80, "Run_Time": 120 }
 
 
-=======
+
 # PredictiveAPI
 A simple API to upload manufacturing data, train a model, and make predictions (e.g., machine downtime).
->>>>>>> c4c891d4965843ed0fe372598b4a5394b09900bd
+
